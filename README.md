@@ -4,7 +4,7 @@
 
 Carrier Bridge is a frontend application designed to help users find job opportunities efficiently. It provides a user-friendly interface to search, filter, and apply for jobs across various domains and locations.
 
-## Features
+## Features 
 
 - **Job Search**: Easily search for jobs based on keywords, location, company, etc.
 - **Filtering**: Refine job searches using filters such as job type, experience level, and salary range.
